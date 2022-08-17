@@ -8,6 +8,8 @@
 
 - 📍 Rio de Janeiro - RJ. *Brazil*.
 
+*Check my blog [Medium](https://medium.com/@joaofmoura).*
+
 ### Thank you for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=joaofmoura)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +26,4 @@
 <a href="https://linkedin.com/in/joaofmoura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaofmoura" height="30" width="40" /></a>
 <a href="https://instagram.com/joaofmoura.ds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaofmoura.ds" height="30" width="40" /></a>
 </p>
+
