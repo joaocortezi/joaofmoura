@@ -8,7 +8,7 @@
 
 - 📍 Rio de Janeiro - RJ. *Brazil*.
 
-Check my blog [Medium](https://medium.com/@joaofmoura) and my Badges [Credly](https://www.credly.com/earner/earned).
+Check my [Medium](https://medium.com/@joaofmoura) and my Badges [Credly](https://www.credly.com/earner/earned).
 
 ### Thank you for visiting! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=joaofmoura)
 
